@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,phone_number,monthly_salary,approved_limit,current_debt
+1,John,Doe,1234567890,50000,1800000,10000
+2,Jane,Smith,9876543210,75000,2700000,25000
+3,Peter,Jones,5555555555,60000,2160000,5000
