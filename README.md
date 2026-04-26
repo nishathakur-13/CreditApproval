@@ -22,7 +22,7 @@ This project is a Django-based credit approval system that provides a RESTful AP
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/credit-approval-system.git
+    git clone https://github.com/nishathakur-13/CreditApproval.git
     cd credit-approval-system
     ```
 
